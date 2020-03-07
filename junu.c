@@ -20,6 +20,7 @@ int main()
     else if(sec>30 && sec<60)
     {
             min++;
+            sec=0;
         }
     sec+=min*60;
     count=sec/30;
