@@ -1,0 +1,31 @@
+/* Index */
+
+/* Navbar */
+#navbar .logo{
+    float:none;
+    text-align: center;
+}
+
+#navbar ul, #navbar ul li{
+    float:none;
+    text-align: center;
+}
+
+/* Home-info */
+#home-info .info-img {
+    display: none;
+}
+#home-info .info-content{
+    width:100%;
+    float:none;
+}
+
+/* footer */
+.box{
+    padding:10px;
+    width:100%;
+    margin-right:5px;
+}
+.box:last-child{
+    /* margin-right:0px; */
+}
