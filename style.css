@@ -156,7 +156,7 @@ p{
 #home-info .info-img{
     width:50%;
     float: left;
-    background: url('/house.jpg') no-repeat;
+    background: url('house.jpg') no-repeat;
     min-height:100%;
 }
 
